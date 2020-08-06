@@ -1,1 +1,1 @@
-POC of javascript algorithms and data-structures
+#### A curated lists of javascript algorithms and data-structures. 📖 📖 
