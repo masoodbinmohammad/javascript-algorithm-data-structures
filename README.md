@@ -1,1 +1,1 @@
-# javascript-algorithm-data-structures
+POC of javascript algorithms and data-structures
